@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VJ-Vijay77
-- 👀Interested and Talks About := Go , Go development , things related in Go
+- 👀Interested and Talks About := Go , Go development ,Data Structures and things related in Go
 - 🌱 Currently an Intern doing some Projects
 - 💞️ looking forward to expand my knowledge in my fields
 - 📫 How to reach me Email: vijaydinesh77vj@gmail.com
