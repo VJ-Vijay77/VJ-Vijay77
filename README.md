@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VJ-Vijay77
-- 👀 I’m interested in Data_Science , Data_Analytics ,Python , R ,Spreadsheets , Big_Data
-- 🌱 Google_Data_Analytics , Data_Science_with_R_and_Python_C_Java
-- 💞️ I’m looking to collaborate on Coding , Analyzing 
+- 👀Interested and Talks About := Go , Go development , things related in Go
+- 🌱 Currently an Intern doing some Projects
+- 💞️ looking forward to expand my knowledge in my fields
 - 📫 How to reach me Email: vijaydinesh77vj@gmail.com
 
 <!---
