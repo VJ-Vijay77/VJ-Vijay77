@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VJ-Vijay77
+- 👋 Hi, I’m Vijay Dinesh
 - 👀Interested and Talks About := Go , Go development ,Data Structures and things related in Go
 - 🌱 Currently an Intern doing some Projects
 - 💞️ looking forward to expand my knowledge in my fields
