@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Dinesh
 - 👀Talks About := Go , Go development ,Data Structures and all things related to Go
-- 🌱 Currently an Trainee doing some major Projects
+- 🌱 Currently an Intern, doing some Projects in Go
 - 💞️ Looking forward to expand my knowledge in Go more&more
 - 📫 Reach me : vijaydinesh77vj@gmail.com
 
