@@ -9,7 +9,7 @@
         <a href="https://twitter.com/vjvijay77">
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
-      </div>
+      </div><br>
         <h3> Familiar Languages </h3>
       <div>
         <img src="https://seekicon.com/free-icon-download/golang_1.svg"  title="CSS3" alt="GO" width="40" height="40"/>&nbsp;
@@ -21,19 +21,19 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
+      </div><br>
 <ul>
     <li>
-- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go
+- 👀<h4>Talks Abut := Go , Go development ,Data Structures and all things related to Go</h4>
     </li> 
     <li>
-        - 🌱 Currently an Intern, doing some Projects in Go
+        - <h4>🌱 Currently an Intern, doing some Projects in Go</h4>
     </li> 
     <li>
-- 💞️ Looking forward to expand my knowledge in Go more&more
+- 💞️ <h4>Looking forward to expand my knowledge in Go more&more</h4>
     </li> 
     <li>
-- 📫 Reach me : vijaydinesh77vj@gmail.com
+- 📫 <h4>Reach me : vijaydinesh77vj@gmail.com</h4>
     </li>
 </ul>
 
