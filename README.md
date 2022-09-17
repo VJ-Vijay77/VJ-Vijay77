@@ -3,12 +3,13 @@
         <a href="https://www.linkedin.com/in/logintovj/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
-       <a href="https://twitter.com/vjvijay77">
+      
+       <a href="https://www.instagram.com/vj_vi.jay_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ </a>   
+  <a href="https://twitter.com/vjvijay77">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a> 
-       <a href="https://twitter.com/vjvijay77">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
- </a>    
       </div>
 - 👀Talks About := Go , Go development ,Data Structures and all things related to Go
 - 🌱 Currently an Intern, doing some Projects in Go
