@@ -24,16 +24,16 @@
       </div><br>
 <ul>
     <li>
-- 👀<h4>Talks Abut := Go , Go development ,Data Structures and all things related to Go</h4>
+<h4>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</h4>
     </li> 
     <li>
-        - <h4>🌱 Currently an Intern, doing some Projects in Go</h4>
+        <h4>- 🌱 Currently an Intern, doing some Projects in Go</h4>
     </li> 
     <li>
-- 💞️ <h4>Looking forward to expand my knowledge in Go more&more</h4>
+<h4>- 💞️ Looking forward to expand my knowledge in Go more&more</h4>
     </li> 
     <li>
-- 📫 <h4>Reach me : vijaydinesh77vj@gmail.com</h4>
+<h4>- 📫 Reach me : vijaydinesh77vj@gmail.com</h4>
     </li>
 </ul>
 
