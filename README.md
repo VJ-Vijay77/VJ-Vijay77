@@ -10,6 +10,18 @@
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
       </div>
+        <h3> Familiar Languages </h3>
+      <div>
+        <img src="https://seekicon.com/free-icon-download/golang_1.svg"  title="CSS3" alt="GO" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/480/c-programming.png"  title="CSS3" alt="C" width="40" height="40"/>&nbsp;
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg"  title="CSS3" alt="MongoDB" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
 - 👀Talks About := Go , Go development ,Data Structures and all things related to Go
 - 🌱 Currently an Intern, doing some Projects in Go
 - 💞️ Looking forward to expand my knowledge in Go more&more
