@@ -10,8 +10,7 @@
         <a href="https://twitter.com/vjvijay77">
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
-      
-        
+          
       </div>
 - 👀Talks About := Go , Go development ,Data Structures and all things related to Go
 - 🌱 Currently an Intern, doing some Projects in Go
