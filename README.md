@@ -24,10 +24,10 @@
       </div><br>
 <ul>
     <li>
-<h4>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</h4>
+<b>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</b>
     </li> 
     <li>
-        <h4>- 🌱 Currently an Intern, doing some Projects in Go</h4>
+        <b>- 🌱 Currently an Intern, doing some Projects in Go</b>
     </li> 
     <li>
 <h4>- 💞️ Looking forward to expand my knowledge in Go more&more</h4>
