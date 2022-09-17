@@ -22,10 +22,22 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
-- 👀Talks About := Go , Go development ,Data Structures and all things related to Go
-- 🌱 Currently an Intern, doing some Projects in Go
+<ul>
+    <li>
+- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go
+    </li> 
+    <li>
+        - 🌱 Currently an Intern, doing some Projects in Go
+    </li> 
+    <li>
 - 💞️ Looking forward to expand my knowledge in Go more&more
+    </li> 
+    <li>
 - 📫 Reach me : vijaydinesh77vj@gmail.com
+    </li>
+</ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-Vijay77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 VJ-Vijay77/VJ-Vijay77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
