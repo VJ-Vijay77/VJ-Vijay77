@@ -30,10 +30,10 @@
         <b>- 🌱 Currently an Intern, doing some Projects in Go</b>
     </li> 
     <li>
-<h4>- 💞️ Looking forward to expand my knowledge in Go more&more</h4>
+<b>- 💞️ Looking forward to expand my knowledge in Go more&more</b>
     </li> 
     <li>
-<h4>- 📫 Reach me : vijaydinesh77vj@gmail.com</h4>
+<b>- 📫 Reach me : vijaydinesh77vj@gmail.com</b>
     </li>
 </ul>
 
