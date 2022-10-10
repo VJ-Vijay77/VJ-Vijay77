@@ -27,7 +27,7 @@
 <b>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</b>
     </li> 
     <li>
-        <b>- 🌱 Currently an Intern, doing some Projects in Go</b>
+        <b>- 🌱 Currently working at Coriolis Technologies Pvt Ltd, Pune as Golang Developer. </b>
     </li> 
     <li>
 <b>- 💞️ Looking forward to expand my knowledge in Go more&more</b>
