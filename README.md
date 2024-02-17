@@ -9,19 +9,7 @@
         <a href="https://twitter.com/vjvijay77">
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
-      </div><br>
-        <h3> Familiar Languages </h3>
-      <div>
-        <img src="https://seekicon.com/free-icon-download/golang_1.svg"  title="CSS3" alt="GO" width="40" height="40"/>&nbsp;
-        <img src="https://img.icons8.com/color/480/c-programming.png"  title="CSS3" alt="C" width="40" height="40"/>&nbsp;
-        <img src="https://www.svgrepo.com/show/331488/mongodb.svg"  title="CSS3" alt="MongoDB" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-Vijay77&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 <ul>
     <li>
 <b>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</b>
@@ -37,7 +25,6 @@
     </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-Vijay77&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=VJ-Vijay77&theme=graywhite&card_width=491)](https://git.io/streak-stats)
 <!---
 VJ-Vijay77/VJ-Vijay77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
