@@ -9,7 +9,9 @@
         <a href="https://twitter.com/vjvijay77">
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> 
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-Vijay77&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 <ul>
     <li>
 <b>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</b>
