@@ -3,7 +3,7 @@
         <a href="https://www.linkedin.com/in/logintovj/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-        <a href="https://www.instagram.com/vj_vi.jay_/">
+        <a href="https://www.instagram.com/vjvijay._._/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a> 
         <a href="https://twitter.com/vjvijay77">
@@ -38,7 +38,7 @@
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-Vijay77&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=VJ-Vijay77)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VJ-Vijay77&theme=graywhite&card_width=491)](https://git.io/streak-stats)
 <!---
 VJ-Vijay77/VJ-Vijay77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
