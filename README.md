@@ -14,13 +14,13 @@
 
 <ul>
     <li>
-<b>- 👀Talks Abut := Go , Go development ,Data Structures and all things related to Go</b>
+<b>- 👀Talks Abut := Go , Go development ,Data Structures and things related to Go</b>
     </li> 
     <li>
-        <b>- 🌱 Currently working at Coriolis Technologies Pvt Ltd, Pune as Golang Developer. </b>
+        <b>- 🌱 Currently working at Coriolis Technologies Pvt Ltd, Pune as a Golang Developer. </b>
     </li> 
     <li>
-<b>- 💞️ Looking forward to expand my knowledge in Go more&more</b>
+<b>- 💞️ Looking forward to expand my knowledge in Go domain</b>
     </li> 
     <li>
 <b>- 📫 Reach me : vijaydinesh77vj@gmail.com</b>
