@@ -27,7 +27,7 @@
     </li>
 </ul>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VJ-Vijay77&theme=graywhite&card_width=491)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VJ-Vijay77)](https://git.io/streak-stats)
 <!---
 VJ-Vijay77/VJ-Vijay77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
